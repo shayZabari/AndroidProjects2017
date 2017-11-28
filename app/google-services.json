@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "144209912752",
+    "firebase_url": "https://androidprojects2017.firebaseio.com",
+    "project_id": "androidprojects2017",
+    "storage_bucket": "androidprojects2017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144209912752:android:61aee7330b30bb03",
+        "android_client_info": {
+          "package_name": "com.example.toshiba.firebase20171128"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144209912752-ck5p0cq6aumorjiehbl7vseq70lljhqa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.toshiba.firebase20171128",
+            "certificate_hash": "43ee488c6f1274fe30709de1ac275f4e054d1f23"
+          }
+        },
+        {
+          "client_id": "144209912752-urqc72pkk9q75ome34t06tv8rvkqpcp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDglufRTmmjP8D3Hq_5TetOZzWSZKdMq8s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144209912752-urqc72pkk9q75ome34t06tv8rvkqpcp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
